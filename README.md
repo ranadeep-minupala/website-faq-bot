@@ -20,7 +20,7 @@ This project is a Python-based FAQ bot that can answer questions about the conte
 
 ## Installation
 1. Clone this repository:
-git clone https://github.com/mr-rao-0/Final-project.git
+git clone https://github.com/ranadeep-minupala/website-faq-bot.git
 cd Final-project
 
 2. Install the required packages:
